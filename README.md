@@ -1,4 +1,4 @@
-:books:<h1>Challenge literAlura</h1>:books:
+<h1>:books:Challenge literAlura:books:</h1>
 
 <h2>Descripción del proyecto</h2>
 <p>El proyecto Literalura se trata de crear un catálogo de libros en línea. La persona usuaria podrá buscar libros por título, ver la lista de libros y autores registrados, 
